@@ -77,7 +77,7 @@ Algorithm:
 6.	End
  
 Program:
-
+```
 #include <stdio.h>
 
 int main() {
@@ -104,6 +104,7 @@ int main() {
 
     return 0;
 }
+```
 Output:
 
 <img width="460" height="127" alt="image" src="https://github.com/user-attachments/assets/4838ce12-d099-41c6-aa7a-ec2a68e27360" />
@@ -129,7 +130,7 @@ Free the memory allocated for each string in s Free the memory allocated for s
 7.	End
  
 Program:
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -181,7 +182,7 @@ int main(){
 	free(s);
 	return 0;
 }
-
+```
 
 Output:
 
